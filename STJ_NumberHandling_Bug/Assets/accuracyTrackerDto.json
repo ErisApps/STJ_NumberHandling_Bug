@@ -1,0 +1,62 @@
+{
+  "accRight": 110.8125,
+  "accLeft": 109.995613,
+  "averageAcc": 110.400444,
+  "leftSpeed": 36.0501938,
+  "rightSpeed": 36.6444359,
+  "averageSpeed": 36.3446846,
+  "leftHighestSpeed": 60.3781357,
+  "rightHighestSpeed": 62.7803841,
+  "leftPreswing": 1.24398565,
+  "rightPreswing": 1.326588,
+  "averagePreswing": 1.28492129,
+  "leftPostswing": 0.8683623,
+  "rightPostswing": 0.8583064,
+  "averagePostswing": 0.8633789,
+  "leftTimeDependence": 0.186265,
+  "rightTimeDependence": 0.142701969,
+  "averageTimeDependence": 0.164676249,
+  "leftAverageCut": [
+    69.97369,
+    10.3508768,
+    29.6710529
+  ],
+  "rightAverageCut": [
+    69.97768,
+    10.9375,
+    29.8973217
+  ],
+  "averageCut": [
+    69.97566,
+    10.641593,
+    29.783186
+  ],
+  "gridAcc": [
+    109,
+    111.0098,
+    110.898735,
+    110.315788,
+    105.692307,
+    "NaN",
+    "NaN",
+    109.071426,
+    107.735291,
+    110.929581,
+    111.216217,
+    110.681816
+  ],
+  "gridCut": [
+    24,
+    102,
+    79,
+    19,
+    13,
+    0,
+    0,
+    14,
+    34,
+    71,
+    74,
+    22
+  ]
+}
